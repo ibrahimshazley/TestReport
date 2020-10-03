@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="81fa04b73f9c4c29a1994897ee4e084f" Name="Diagram1">
+        <EntityTypeShape EntityType="PharmaERPTestModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.App_ErrorLog" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.APP_Menus" Width="1.5" PointX="7.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.App_Settings" Width="1.5" PointX="15.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AppDuesAndDeduct_Setting" Width="1.5" PointX="9.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AppRolesMenuPriviledge" Width="1.5" PointX="11.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AppUsersMenuPriviledge" Width="1.5" PointX="13.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AR_Dict" Width="1.5" PointX="15.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AspNetRoles" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AspNetUserClaims" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AspNetUserLogins" Width="1.5" PointX="5.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.AspNetUsers" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Group_Pages" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Groups" Width="1.5" PointX="17.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Absence_Types" Width="1.5" PointX="17.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Administrations" Width="1.5" PointX="5.25" PointY="141.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_AlternativeEmployeesTrans" Width="1.5" PointX="17.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_AppSettingTypes" Width="1.5" PointX="17.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Assets_Group" Width="1.5" PointX="13.25" PointY="44.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_AssignWorkFlowToRequest" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Banks" Width="1.5" PointX="19.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_BeginEmpReceivableDues_Dtls" Width="1.5" PointX="5.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Branch_Doc_Notification_Dtls" Width="1.5" PointX="7.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Branch_Docs_Dtls_History" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Branch_Docs_Hdr" Width="1.5" PointX="5.25" PointY="147.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_BranchAccount_Types" Width="1.5" PointX="9.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_BranchAccounts" Width="1.5" PointX="19.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_BranchDocuments" Width="1.5" PointX="11.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Branches" Width="1.5" PointX="3" PointY="145" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Cities" Width="1.5" PointX="13.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Companies" Width="1.5" PointX="0.75" PointY="146.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_CompaniesTree" Width="1.5" PointX="19.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Countries" Width="1.5" PointX="19.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Currencies" Width="1.5" PointX="15.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_DailyTimeSheet" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_DayTypes" Width="1.5" PointX="0.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_DeductionReasons" Width="1.5" PointX="2.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Departments" Width="1.5" PointX="7.5" PointY="142.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_DisciplinaryProcedures" Width="1.5" PointX="21.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_DismissalReasons" Width="1.5" PointX="21.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_DocumentTypes" Width="1.5" PointX="16.25" PointY="142.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Emp_Assets" Width="1.5" PointX="15.5" PointY="147.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Emp_Doc_Notification_Dtls" Width="1.5" PointX="21.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Emp_Docs_Dtls_History" Width="1.5" PointX="21.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Emp_Docs_Hdr" Width="1.5" PointX="18.5" PointY="145.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Emp_HiringMonthStatus" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAbsenceRecord" Width="1.5" PointX="12.5" PointY="49.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAccomdationFees_Dtls" Width="1.5" PointX="23.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAccomdationFees_Hdr" Width="1.5" PointX="23.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAccomdationFees_OrgDtls" Width="1.5" PointX="23.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAccomdationFees_OrgHdr" Width="1.5" PointX="23.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAccomdationFees_Setting" Width="1.5" PointX="4.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAnnualLeavePlanRecord" Width="1.5" PointX="12.5" PointY="53.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAnnualLeavePlanRequest" Width="1.5" PointX="12.5" PointY="58.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAnnualLeavePlanRequestWorkFlow" Width="1.5" PointX="6.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAttendance_Dtls" Width="1.5" PointX="3" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpAttendance_Hdr" Width="1.5" PointX="0.75" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBeginAnnualVacTransferdBal" Width="1.5" PointX="8.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrow_Dtls" Width="1.5" PointX="17" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrow_Hdr" Width="1.5" PointX="14.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrow_Settings" Width="1.5" PointX="17.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrowDelayRecord" Width="1.5" PointX="12.5" PointY="63.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrowDelayRequest" Width="1.5" PointX="12.5" PointY="70.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrowDelayRequestWorkFlow" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrowRequest" Width="1.5" PointX="12.5" PointY="75.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpBorrowRequestWorkFlow" Width="1.5" PointX="25.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpCertifications" Width="1.5" PointX="12.5" PointY="82.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpContractFinishNotifictions" Width="1.5" PointX="10.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpContracts" Width="1.5" PointX="25.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDelayRecord" Width="1.5" PointX="12.5" PointY="87.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDisciplinaryProcedureRecord" Width="1.5" PointX="12.5" PointY="92.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDisciplinaryProcedureRequest" Width="1.5" PointX="12.5" PointY="97.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDisciplinaryProcedureRequestWorkFlow" Width="1.5" PointX="12.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDismissalRecord" Width="1.5" PointX="12.5" PointY="103.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDismissalRequest" Width="1.5" PointX="12.5" PointY="108" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDismissalRequestWorkFlow" Width="1.5" PointX="14.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDues" Width="1.5" PointX="25.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDues_History" Width="1.5" PointX="25.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDuesVactionTicket" Width="1.5" PointX="0.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpDuesVactionTicketHistory" Width="1.5" PointX="27.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpEmploymentRecord" Width="1.5" PointX="12.5" PointY="112.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpEmploymentRequest" Width="1.5" PointX="12.5" PointY="118.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpEmploymentRequestWorkFlow" Width="1.5" PointX="2.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpExperiences" Width="1.5" PointX="12.5" PointY="123.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpExtraRecord" Width="1.5" PointX="12.5" PointY="129.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpJobMissionRecord" Width="1.5" PointX="12.5" PointY="133.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpJobMissionRequest" Width="1.5" PointX="12.5" PointY="140.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpJobMissionRequestWorkFlow" Width="1.5" PointX="27.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmployeeContractPeriods" Width="1.5" PointX="27.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmployeeContractPeriods_History" Width="1.5" PointX="16.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmployeeContractsDetails" Width="1.5" PointX="27.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Employees" Width="1.5" PointX="10.25" PointY="134.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmployeesHistory" Width="1.5" PointX="18.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmployeeStatus" Width="1.5" PointX="27.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmploymentExperinceRecord" Width="1.5" PointX="23.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmploymentExperinceRequest" Width="1.5" PointX="27.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmploymentQualifyRecord" Width="1.5" PointX="29.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmploymentQualifyRequest" Width="1.5" PointX="29.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOtherMonthlyValueRecord" Width="1.5" PointX="12.5" PointY="153.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOverTime_Settings" Width="1.5" PointX="29.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOverTimeOrder" Width="1.5" PointX="12.5" PointY="157.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOverTimeOrder_History" Width="1.5" PointX="29.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOverTimeRecord" Width="1.5" PointX="12.5" PointY="162.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOverTimeRequest" Width="1.5" PointX="12.5" PointY="169.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpOverTimeRequestWorkFlow" Width="1.5" PointX="29.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpPermission_Settings" Width="1.5" PointX="29.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpPermissionOrder" Width="1.5" PointX="12.5" PointY="174.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpPermissionOrder_History" Width="1.5" PointX="29.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpPermissionRecord" Width="1.5" PointX="12.5" PointY="179.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpPermissionRequest" Width="1.5" PointX="12.5" PointY="186.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpPermissionRequestWorkFlow" Width="1.5" PointX="25.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpQualifications" Width="1.5" PointX="12.5" PointY="193.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpRequestNotify" Width="1.5" PointX="27.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpResignationRecord" Width="1.5" PointX="12.5" PointY="199.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpResignationRequest" Width="1.5" PointX="12.5" PointY="204.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpResignationRequestWorkFlow" Width="1.5" PointX="29.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpRewardRecord" Width="1.5" PointX="12.5" PointY="209" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpRewardRequest" Width="1.5" PointX="12.5" PointY="214.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpRewardRequestWorkFlow" Width="1.5" PointX="4.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSecondment_Setting" Width="1.5" PointX="6.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSecondmentRecord" Width="1.5" PointX="12.5" PointY="220.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSecondmentRequest" Width="1.5" PointX="12.5" PointY="226.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSecondmentRequestWorkFlow" Width="1.5" PointX="8.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSkills" Width="1.5" PointX="12.5" PointY="232.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSons" Width="1.5" PointX="20.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpSpouses" Width="1.5" PointX="31.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpTransferEmployeeRecord" Width="1.5" PointX="12.5" PointY="236.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpTransferEmployeeRequest" Width="1.5" PointX="12.5" PointY="241.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpTransferEmployeeRequestWorkFlow" Width="1.5" PointX="31.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpTravelTickectRecord" Width="1.5" PointX="12.5" PointY="247.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpTravelTickectRequest" Width="1.5" PointX="12.5" PointY="254.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpTravelTickectRequestWorkFlow" Width="1.5" PointX="10.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpVactionOrder" Width="1.5" PointX="12.5" PointY="260.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpVactionOrder_History" Width="1.5" PointX="12.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpVactionRecord" Width="1.5" PointX="12.5" PointY="266.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpVactionRequest" Width="1.5" PointX="12.5" PointY="275.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpVactionRequestWorkFlow" Width="1.5" PointX="31.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_EmpWeekDaysDtls" Width="1.5" PointX="14.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_ExperienceCategories" Width="1.5" PointX="31.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Experiences" Width="1.5" PointX="22.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_FinalFingerPrint" Width="1.5" PointX="31.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_FingerPrint" Width="1.5" PointX="31.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_FPModeStatus" Width="1.5" PointX="33.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_GradeHiringItem" Width="1.5" PointX="0.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_GradeHiringItem_Dtls" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_GradeHiringItem_Hdr" Width="1.5" PointX="33.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_GradeHiringItemFixed" Width="1.5" PointX="33.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_GradeJobGroups" Width="1.5" PointX="5.25" PointY="383.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Grades" Width="1.5" PointX="33.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_GradeVactionTicket" Width="1.5" PointX="33.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Hiring_Items" Width="1.5" PointX="33.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringEmpDuesRequestEffect" Width="1.5" PointX="33.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringEmpReceivableDues_Dtls" Width="1.5" PointX="13" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringEmpReceivableDues_Hdr" Width="1.5" PointX="10.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringEmpSocialInsuranceEffect" Width="1.5" PointX="33.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringMonth_ActuallDues_Dtls" Width="1.5" PointX="8" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringMonth_ActuallDues_Hdr" Width="1.5" PointX="5.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringMonth_DelayDues_Dtls" Width="1.5" PointX="3" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringMonth_DelayDues_Hdr" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringMonth_FollowUp_Dtls" Width="1.5" PointX="12" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_HiringMonth_FollowUp_Hdr" Width="1.5" PointX="9.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_InporgressAndApprovedRequests" Width="1.5" PointX="35.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Jobs" Width="1.5" PointX="35.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_MilitaryStatuses" Width="1.5" PointX="35.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Nationalities" Width="1.5" PointX="12.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Notification_Types" Width="1.5" PointX="35.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Official_Vacations" Width="1.5" PointX="14.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_OverTime_Types" Width="1.5" PointX="35.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Permission_Types" Width="1.5" PointX="35.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_PermissionReasons" Width="1.5" PointX="24.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_PermissionSubReasons" Width="1.5" PointX="35.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Projects" Width="1.5" PointX="26.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Qualifications" Width="1.5" PointX="28.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_QualificationTypes" Width="1.5" PointX="35.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Religions" Width="1.5" PointX="35.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_RequestGroup_Types" Width="1.5" PointX="2.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_RequestStatus" Width="1.5" PointX="4.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_RequestTypes" Width="1.5" PointX="6.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_RequestTypesDtls" Width="1.5" PointX="30.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_RewardReasons" Width="1.5" PointX="37.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_ShiftGroups" Width="1.5" PointX="5.25" PointY="388.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Shifts" Width="1.5" PointX="13.25" PointY="146.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Shifts_Details" Width="1.5" PointX="37.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_ShiftWeekDaysDtls" Width="1.5" PointX="8.75" PointY="37.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Social_InsuranceDeductionPercntg_SA" Width="1.5" PointX="37.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Social_InsuranceTypes" Width="1.5" PointX="37.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_SocialStatuses" Width="1.5" PointX="37.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_TicketTypes" Width="1.5" PointX="37.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_TimeAttendanceSetting" Width="1.5" PointX="37.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Users" Width="1.5" PointX="37.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_Vaction_Types" Width="1.5" PointX="37.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_WeekPolicySystem" Width="1.5" PointX="32.75" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_WeekPolicySystemDaysDtls" Width="1.5" PointX="37.75" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Hr_WeekSysDays" Width="1.5" PointX="39.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="39.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.TransLog" Width="1.5" PointX="2.75" PointY="39.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.User_Pages" Width="1.5" PointX="39.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.WorkFlow_Dtls" Width="1.5" PointX="12" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.WorkFlow_Hdr" Width="1.5" PointX="9.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.Menus" Width="1.5" PointX="39.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmaERPTestModel.TxtEmployeeData" Width="1.5" PointX="39.75" PointY="10.75" IsExpanded="true" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Administrations_Hr_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Departments_Hr_Administrations" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Emp_Assets_Hr_Assets_Group" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Branch_Docs_Dtls_History_Hr_Branch_Docs_Dtls_History" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Branch_Docs_Hdr_Hr_Branch_Docs_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Branch_Docs_Hdr_Hr_DocumentTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Branches_Hr_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Branches_Hr_Companies" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Employees_Hr_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_GradeJobGroups_Hr_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_ShiftGroups_Hr_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Shifts_Hr_Branches" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Employees_Hr_Companies" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Shifts_Hr_Companies" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Emp_Docs_Hdr_Hr_DocumentTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Emp_Assets_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_Emp_Docs_Hdr_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpAbsenceRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpAnnualLeavePlanRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpAnnualLeavePlanRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpAttendance_Dtls_Hr_EmpAttendance_Dtls" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpBorrow_Dtls_Hr_EmpBorrow_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpBorrowDelayRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpBorrowDelayRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpBorrowRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpCertifications_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpDelayRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpDisciplinaryProcedureRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpDisciplinaryProcedureRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpDismissalRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpDismissalRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpEmploymentRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpEmploymentRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpExperiences_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpExtraRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpJobMissionRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpJobMissionRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpOtherMonthlyValueRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpOverTimeOrder_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpOverTimeRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpOverTimeRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpPermissionOrder_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpPermissionRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpPermissionRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpQualifications_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpResignationRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpResignationRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpRewardRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpRewardRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpSecondmentRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpSecondmentRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpSkills_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpTransferEmployeeRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpTransferEmployeeRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpTravelTickectRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpTravelTickectRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpVactionOrder_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpVactionRecord_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_EmpVactionRequest_Hr_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_GradeHiringItem_Dtls_Hr_GradeHiringItem_Dtls" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_HiringEmpReceivableDues_Dtls_Hr_HiringEmpReceivableDues_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_HiringMonth_ActuallDues_Dtls_Hr_HiringMonth_ActuallDues_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_HiringMonth_DelayDues_Dtls_Hr_HiringMonth_DelayDues_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_Hr_HiringMonth_FollowUp_Dtls_Hr_HiringMonth_FollowUp_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.FK_WorkFlow_Dtls_WorkFlow_Hdr" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmaERPTestModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
